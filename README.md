@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chingiz Seyidbayli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from World</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/chingizseyidbayli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chingizseyidbayli" height="30" width="40" /></a>
+<a href="https://kaggle.com/chingizseyidbayli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chingizseyidbayli" height="30" width="40" /></a>
+<a href="https://medium.com/@chingizseyidbayli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chingizseyidbayli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
